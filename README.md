@@ -20,7 +20,7 @@ Then, log in as the **Super Admin** and start populating the system.
 
 ### Preloaded Accounts
 
-#### 🧑‍💼 Super Admin
+#### Super Admin
 - **ID:** `0`  
 - **Password:** `admin`  
 - Access the SuperAdmin view to **create and manage Admins**.
